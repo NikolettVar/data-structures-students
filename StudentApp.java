@@ -39,19 +39,19 @@ public class StudentApp {
         Student s6 = new Student(89234567, 2800, "Martin Evans", "martin.evans@ncirl.ie", "Active", "Irish");
         students.addAfter(s6);
         
-        //System.out.println(students.isEmpty());
-        //System.out.println(students.toString());
-        //System.out.println(s1.toString());
-       //System.out.println(students.get_status(89234));
-        //students.remove(25436485); //void type method, don't call it inside system.out!!!
-        //System.out.println(students.toString());
-        //System.out.println(students.getAverageFee());
+        System.out.println(students.isEmpty());
+        System.out.println(students.toString());
+        System.out.println(s1.toString());
+        System.out.println(students.get_status(89234));
+        students.remove(25436485); //void type method, don't call it inside system.out!!!
+        System.out.println(students.toString());
+        System.out.println(students.getAverageFee());
         
-        //System.out.println(students.remove("active"));
-        //System.out.println(students.toString());
-        //System.out.println(students.getAverageFee());
+        System.out.println(students.remove("active"));
+        System.out.println(students.toString());
+        System.out.println(students.getAverageFee());
         
-        //IsPrimeNumber myPrime = new IsPrimeNumber();
-        //System.out.println(myPrime.isPrime(11,2));
+        IsPrimeNumber myPrime = new IsPrimeNumber();
+        System.out.println(myPrime.isPrime(11,2));
     }
 }
