@@ -51,7 +51,6 @@ public class StudentApp {
         System.out.println(students.toString());
         System.out.println(students.getAverageFee());
         
-        IsPrimeNumber myPrime = new IsPrimeNumber();
-        System.out.println(myPrime.isPrime(11,2));
+       
     }
 }
