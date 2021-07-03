@@ -1,2 +1,3 @@
 # data-structures-students
-A Data Structures project with singly linked list in Java.
+Higher Diploma in Computing, Software Development, Data Structures module. 
+This small project was created as a Java instantiable class practice exercise. 
